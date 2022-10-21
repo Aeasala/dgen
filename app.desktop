@@ -1,2 +1,6 @@
 [Desktop Entry]
-Type=ApplicationTerminal=falseExec=asdfName=asdfPath=asdf
+Type=Application
+Terminal=false
+Exec=/home/evan/spuder/poo
+Name=spyder
+Path=/home/evan/spuder
